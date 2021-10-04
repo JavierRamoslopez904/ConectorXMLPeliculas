@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Pelis
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='PelisEsquema.xsd'>
+ 
+    <Peli tipo="documental">
+        <Titulo>El dilema de las redes sociales</Titulo>
+        <Productora>Netflix</Productora>
+        <Duracion>134</Duracion>
+    </Peli>
+    <Peli>
+        <Titulo>El Camino: A Breaking Bad Movie</Titulo>
+        <Productora>Netflix+AMC</Productora>
+        <Duracion>202</Duracion>
+    </Peli>
+    <Peli tipo="documental musical">
+        <Titulo>Amy</Titulo>
+        <Autor>Amazon Prime</Autor>
+        <Duracion>208</Duracion>
+    </Peli>
+     <Peli tipo="serie">
+        <Titulo>Six Dreams</Titulo>
+        <Autor>Amazon Prime</Autor>
+        <Duracion>360</Duracion>
+    </Peli>
+    <Peli>
+        <Titulo>Zero Zero Zero</Titulo>
+        <Autor>Amazon Prime</Autor>
+        <Duracion>480</Duracion>
+    </Peli>
+</Pelis>
